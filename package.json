@@ -3,7 +3,10 @@
   "version": "2.0.0",
   "description": "List of properties for JavaScript objects",
   "license": "MIT",
-  "repository": "dustinspecker/obj-props",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinspecker/obj-props.git"
+  },
   "author": {
     "name": "Dustin Specker",
     "email": "DustinSpecker@DustinSpecker.com",
